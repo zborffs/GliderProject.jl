@@ -35,7 +35,7 @@ wing_chord = 2u"inch";
 wing_incidence_angle = 0u"°"; # just assign wing incidence to be equal to 0
 
 # Define fuselage dimensions (modifiable)
-fuselage_length = 18u"inch";
+fuselage_length = 18u"inch"; # 9 not 12 b/c 18 / 2 = 9
 fuselage_width = (1/4)u"inch"; # shouldn't really change, but hypothetically changeable
 fuselage_thickness = (1/4)u"inch"; # shouldn't really change, but hypothetically changeable
 
